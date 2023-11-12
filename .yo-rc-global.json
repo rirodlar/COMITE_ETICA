@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.9.4": {
+    "promptValues": {
+      "packageName": "cl.usach.comite.etica",
+      "nativeLanguage": "es"
+    }
+  }
+}
